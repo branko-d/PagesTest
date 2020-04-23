@@ -22,4 +22,4 @@ CREATE TABLE NODE (
 );
 ```
 
-![The Test Picture](/TestPic.png)
+![The Test Picture](./TestPic.png)
